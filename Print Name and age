@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+class Solution {
+	
+	public static void main(String args[]) {
+		
+		// Write code here
+		java.util.Scanner sc = new Scanner(System.in);
+		String n = sc.nextLine();
+		int a = sc.nextInt();
+		System.out.printf("The name of the person is %s and the age is %d.",n,a);
+		
+	}
+}
