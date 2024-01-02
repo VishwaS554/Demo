@@ -1,0 +1,27 @@
+import java.util.* ;
+import java.io.*; 
+class Solution {
+	
+	public static void main(String args[]) {
+		
+		// Write code here
+		Scanner sc = new Scanner(System.in);
+		int b = sc.nextInt();
+		char g = sc.next().charAt(0);
+		double h = b*0.2;
+		double d = b*0.5;
+		int a;
+		if(g=='A')
+		a = 1700;
+		else if(g=='B')
+		a = 1500;
+		else
+		a = 1300;
+		double p = b*0.11;
+		double t = b+h+d+a-p;
+		double r = Math.round(t);
+		int s = (int)r;
+		System.out.println(s);
+		
+	}
+}
