@@ -1,0 +1,25 @@
+import java.util.* ;
+import java.io.*; 
+class Solution {
+	
+	public static void main(String args[]) {
+		double f;
+		// Write code here
+		Scanner sc = new Scanner(System.in);
+		int s = sc.nextInt();
+		int e = sc.nextInt();
+		int j = sc.nextInt();
+		while(s<=e)
+		{
+			double c = (s-32)/1.8;
+			if(c>0)
+			f = Math.floor(c);
+			else
+			f = Math.ceil(c);
+			int r = (int)f;
+			System.out.println(s+" "+r);
+			s+=j;
+		}
+		
+	}
+}
