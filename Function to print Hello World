@@ -1,0 +1,13 @@
+class Solution {
+	
+	// Write your print function here
+	void print(){
+		System.out.print("Hello World");
+	}
+ 
+	
+	public static void main(String args[]) {
+		Solution obj = new Solution();
+		obj.print();
+	}
+}
