@@ -11,7 +11,7 @@ public class Solution {
 			{
 				a = true;
 			//	return true;
-			}
+			} 
 			else{
 			a=false;
 			//return false;}
