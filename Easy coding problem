@@ -5,7 +5,7 @@ public class Solution {
 	public static boolean checkEvenPartitioning(int n) {
 		
 		// Write your code here
-		//int r = n%2;
+		//int r = n%2; 
 		boolean a;
 		if(n%2==0 && n>2)
 			{
