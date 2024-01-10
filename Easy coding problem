@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Solution { 
 	public static boolean checkEvenPartitioning(int n) {
-		
+		 
 		// Write your code here
 		//int r = n%2; 
 		boolean a;
