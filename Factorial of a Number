@@ -16,7 +16,7 @@ class Solution {
 		System.out.println("Error");
 		} 
 		else
-		{
+		{ 
 			for(i=n;i>0;i--)
 			{
 				f*=i;
