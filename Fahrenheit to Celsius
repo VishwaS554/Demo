@@ -7,7 +7,7 @@ class Solution {
 		// Write code here  
 		Scanner sc = new Scanner(System.in);
 		int s = sc.nextInt();
-		int e = sc.nextInt();
+		int e = sc.nextInt(); 
 		int j = sc.nextInt();
 		while(s<=e) 
 		{
