@@ -10,7 +10,7 @@ class Solution {
 		int e = sc.nextInt(); 
 		int j = sc.nextInt();
 		while(s<=e) 
-		{ 
+		{  
 			double c = (s-32)/1.8;
 			if(c>0)
 			f = Math.floor(c);
