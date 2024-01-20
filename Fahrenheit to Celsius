@@ -8,7 +8,7 @@ class Solution {
 		Scanner sc = new Scanner(System.in);
 		int s = sc.nextInt();
 		int e = sc.nextInt(); 
-		int j = sc.nextInt();
+		int j = sc.nextInt(); 
 		while(s<=e) 
 		{  
 			double c = (s-32)/1.8;
