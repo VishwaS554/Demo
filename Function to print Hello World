@@ -10,5 +10,5 @@ class Solution {
 		Solution obj = new Solution();
 		obj.print();
 	}
-}
+} 
  
