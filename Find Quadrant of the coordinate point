@@ -8,7 +8,7 @@ class Solution {
 		Scanner sc = new Scanner(System.in);
 		int x = sc.nextInt();
 		int y = sc.nextInt();
-		if(x>0 && y>0)
+		if(x>0 && y>0) 
 		System.out.println("1st Quadrant");
 		else if(x<0 && y>0) 
 		System.out.println("2nd Quadrant");
