@@ -11,7 +11,7 @@ class Solution {
 		int p = sc.nextInt();
 		for(i=0;i<p;i++)
 		{
-			r*=b;
+			r*=b; 
 		}
 		System.out.println(r);
 	}
