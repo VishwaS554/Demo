@@ -10,7 +10,7 @@ class Solution {
 		int b = sc.nextInt(); 
 		int p = sc.nextInt();
 		for(i=0;i<p;i++)
-		{ 
+		{  
 			r*=b; 
 		}
 		System.out.println(r);
