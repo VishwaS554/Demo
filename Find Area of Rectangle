@@ -10,5 +10,5 @@ class Solution {
         System.out.println(l*b); 
 		
 	}
-} 
+}  
  
