@@ -15,7 +15,7 @@ class Solution {
 		else if(n<0){
 		System.out.println("Error");
 		} 
-		else 
+		else  
 		{ 
 			for(i=n;i>0;i--)
 			{
