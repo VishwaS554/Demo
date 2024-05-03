@@ -3,7 +3,7 @@ class Solution {
 	
 	public static void main(String args[]) {
 		  
-		// Write code 
+		// Write cod
 		Scanner sc = new Scanner(System.in);
 		char c = sc.next().charAt(0); 
 		if(c>'A' && c<'Z')
