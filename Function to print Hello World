@@ -1,6 +1,6 @@
 class Solution {
 	
-	// Write your print function here
+	// Write your print function her
 	void print(){
 		System.out.print("Hello World");
 	}
